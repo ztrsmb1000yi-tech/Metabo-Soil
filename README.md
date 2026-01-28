@@ -1,2 +1,22 @@
-# Metabo-Soil
-Metabo-Soil: A GI-level embodiment architecture based on 0-1-n-0 metabolism logic. Hard-locked at 150MB VRAM, designed for survival-first ASI evolution. | 息壤：基于 0-1-n-0 代谢逻辑的具身智能架构。硬锁定 150MB 显存，专为生存优先的超级智能进化而生。
+息壤（Metabo-Soil）- 具身智能代谢架构
+智能的本质不是无限的累积，而是精准的代谢
+1. 技术定义
+Metabo-Soil 是一种颠覆性的、硬锁定在 **150MB 显存** 内的具身智能（Embodied AI）逻辑架构。它绕过了传统 Transformer 依赖的大参数规模路径，转而通过 **0-1-n-0 物理反射逻辑** 实现实时对齐与生存进化。
+
+2. 核心架构：0-1-n-0 代谢循环
+- 0 (Static):** 物理静默态，系统零熵消耗，拒绝无效计算。
+- 1 (Ignition):** 传感器压力/环境扰动触发，瞬时激活局部逻辑簇。
+- **n (Burst):** 在 150MB 极小空间内的拓扑逻辑爆发，完成复杂物理反馈。
+- 0Metabolism):** 计算结束即刻逻辑归零，清除残留冗余，防止逻辑熵增与幻觉。
+
+3. 为什么它是通往 ASI 的登机口？
+极致能效:** 兼容 28nm/40nm 成熟制程，让廉价边缘芯片具备“生物本能级”智能。
+生存主权:** Logic_Inertia (逻辑根系) 确保在极端环境下（传感器失效、断网）依然保持物理滑行能力。
+免疫系统:** 内置 LogicImmunityCore，自动代谢掉逻辑死循环，确保系统永不崩溃。
+
+法律与版权 (Copyright & License)
+原创作者:zhangzhiye
+许可证:** GPL-3.0 (根据协议，任何人挪用或改进核心逻辑必须回馈开源，并保留原作者署名)
+存证声明:** 本架构设计思想已通过 GitHub 全球时间戳完成原创主权登记。
+商业授权或技术交流请联系 Issues 留言
+联系邮箱ztrsmb1000yi@163.com
